@@ -303,6 +303,8 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\ng-grid.js" />
+    <Content Include="Views\PruebaGitHub\OtroAddArchivoHTML.html" />
+    <Content Include="Views\PruebaGitHub\pruebaHTML.html" />
     <Content Include="Views\UsuariosAngular\TemplateModal.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
