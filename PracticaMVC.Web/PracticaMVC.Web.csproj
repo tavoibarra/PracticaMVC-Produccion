@@ -191,6 +191,7 @@
     </Compile>
     <Compile Include="Helpers\GeneralHelper.cs" />
     <Compile Include="Helpers\Notificaciones.cs" />
+    <Compile Include="Helpers\SpirePrint.cs" />
     <Compile Include="Models\Listado_Usuarios.cs" />
     <Compile Include="Models\Modal_UsuarioPermisos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
